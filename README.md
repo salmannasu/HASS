@@ -1,0 +1,2 @@
+# HASS
+HASS (Hydraulic Analyzer of Sprinkler Systems), developed by mathematicians and registered professional engineers, was first licensed in 1976 as a tool for easy use by engineers, sprinkler contractors and reviewers alike. HASS, typically licensed in five year increments, gives you the tools you need to determine water supply adequacy based on system demand and distribution piping. With HASS, you can perform hydraulic analysis in accordance with NFPA 13, 13D, 13R, 14, 15, 20, 24, 750 and other standards, calculating any connection of nodes and pipes.
